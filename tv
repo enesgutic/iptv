@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1, TEST
+http://ad.mysisli.com/live/enesgutic/index.m3u8
 #EXTINF:-1,EX-YU: 24 KITCHEN
 http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65251.m3u8
 #EXTINF:-1,EX-YU: 24 Vesti
